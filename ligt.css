@@ -1,0 +1,9 @@
+.body{
+    background-color: #dddada;
+ color: #0f141e;
+ transition: 1s;
+}
+
+.moon{
+    display: none;
+}
